@@ -1,168 +1,168 @@
 {
-  "timestamp": 1794862076063,
-  "updated_at": "2026-11-17T03:47:41.345934+07:00",
-  "usd_thb": 33.9,
+  "timestamp": 1794944248404,
+  "updated_at": "2026-11-18T02:37:15.601302+07:00",
+  "usd_thb": 33.89,
   "gold": {
     "bar_buy": 68350.0,
     "bar_sell": 68550.0,
     "ornament_buy": 66976.88,
     "ornament_sell": 69350.0,
-    "update_date": "17/11/2026",
+    "update_date": "18/11/2026",
     "update_time": "18:00 น."
   },
   "thai_stocks": {
     "PTT": {
-      "price": 38.7,
-      "prev_close": 38.0,
-      "change_pct": 1.84,
+      "price": 37.2,
+      "prev_close": 38.7,
+      "change_pct": -3.88,
       "name": "PTT Public Company Limited"
     },
     "DELTA": {
-      "price": 185.5,
-      "prev_close": 190.0,
-      "change_pct": -2.37,
+      "price": 177.5,
+      "prev_close": 185.5,
+      "change_pct": -4.31,
       "name": "Delta Electronics (Thailand) Public Company Limited"
     },
     "CPALL": {
-      "price": 49.8,
-      "prev_close": 49.5,
-      "change_pct": 0.61,
+      "price": 50.0,
+      "prev_close": 49.8,
+      "change_pct": 0.4,
       "name": "CP ALL Public Company Limited"
     },
     "AOT": {
-      "price": 62.0,
-      "prev_close": 61.75,
-      "change_pct": 0.4,
+      "price": 61.75,
+      "prev_close": 62.0,
+      "change_pct": -0.4,
       "name": "Airports of Thailand Public Company Limited"
     },
     "BDMS": {
-      "price": 20.45,
-      "prev_close": 20.1,
-      "change_pct": 1.74,
+      "price": 20.95,
+      "prev_close": 20.45,
+      "change_pct": 2.44,
       "name": "Bangkok Dusit Medical Services Public Company Limited"
     },
     "SCB": {
-      "price": 155.5,
-      "prev_close": 154.5,
-      "change_pct": 0.65,
+      "price": 154.0,
+      "prev_close": 155.5,
+      "change_pct": -0.96,
       "name": "SCB X Public Company Limited"
     },
     "KBANK": {
-      "price": 257.0,
-      "prev_close": 254.0,
-      "change_pct": 1.18,
+      "price": 255.0,
+      "prev_close": 257.0,
+      "change_pct": -0.78,
       "name": "Kasikornbank Public Company Limited"
     },
     "ADVANC": {
-      "price": 345.0,
-      "prev_close": 342.0,
-      "change_pct": 0.88,
+      "price": 339.0,
+      "prev_close": 345.0,
+      "change_pct": -1.74,
       "name": "Advanced Info Service Public Company Limited"
     },
     "GULF": {
-      "price": 62.5,
+      "price": 61.0,
       "prev_close": 62.5,
-      "change_pct": 0.0,
+      "change_pct": -2.4,
       "name": "Gulf Development Public Company Limited"
     },
     "TRUE": {
-      "price": 13.05,
-      "prev_close": 12.9,
-      "change_pct": 1.16,
+      "price": 12.9,
+      "prev_close": 13.05,
+      "change_pct": -1.15,
       "name": "True Corporation Public Company Limited"
     },
     "KTB": {
-      "price": 43.1,
-      "prev_close": 44.0,
-      "change_pct": -2.05,
+      "price": 42.8,
+      "prev_close": 43.1,
+      "change_pct": -0.7,
       "name": "Krung Thai Bank Public Company Limited"
     },
     "HANA": {
-      "price": 44.6,
-      "prev_close": 46.75,
-      "change_pct": -4.6,
+      "price": 43.5,
+      "prev_close": 44.6,
+      "change_pct": -2.47,
       "name": "Hana Microelectronics Public Company Limited"
     },
     "SCC": {
-      "price": 241.0,
-      "prev_close": 243.0,
-      "change_pct": -0.82,
+      "price": 238.0,
+      "prev_close": 241.0,
+      "change_pct": -1.24,
       "name": "The Siam Cement Public Company Limited"
     },
     "PTTGC": {
-      "price": 40.7,
-      "prev_close": 41.5,
-      "change_pct": -1.93,
+      "price": 39.1,
+      "prev_close": 40.7,
+      "change_pct": -3.93,
       "name": "PTT Global Chemical Public Company Limited"
     },
     "OR": {
-      "price": 12.6,
-      "prev_close": 12.5,
-      "change_pct": 0.8,
+      "price": 12.45,
+      "prev_close": 12.6,
+      "change_pct": -1.19,
       "name": "PTT Oil and Retail Business Public Company Limited"
     },
     "MINT": {
-      "price": 22.35,
-      "prev_close": 22.2,
-      "change_pct": 0.68,
+      "price": 22.2,
+      "prev_close": 22.35,
+      "change_pct": -0.67,
       "name": "Minor International Public Company Limited"
     },
     "CPF": {
-      "price": 20.1,
-      "prev_close": 20.7,
-      "change_pct": -2.9,
+      "price": 19.95,
+      "prev_close": 20.1,
+      "change_pct": -0.75,
       "name": "Charoen Pokphand Foods Public Company Limited"
     }
   },
   "us_stocks": {
     "AAPL": {
-      "price_usd": 351.78,
-      "change_pct": -1.26,
+      "price_usd": 350.43,
+      "change_pct": -0.67,
       "name": "Apple Inc."
     },
     "TSLA": {
-      "price_usd": 377.59,
-      "change_pct": -3.24,
+      "price_usd": 379.96,
+      "change_pct": 0.06,
       "name": "Tesla, Inc."
     },
     "NVDA": {
-      "price_usd": 155.46,
-      "change_pct": -4.54,
+      "price_usd": 153.54,
+      "change_pct": -1.67,
       "name": "NVIDIA Corporation"
     },
     "VOO": {
-      "price_usd": 679.05,
-      "change_pct": -2.07,
+      "price_usd": 671.96,
+      "change_pct": -1.22,
       "name": "Vanguard S&P 500 ETF"
     },
     "QQQ": {
-      "price_usd": 661.15,
-      "change_pct": -2.76,
+      "price_usd": 654.15,
+      "change_pct": -1.15,
       "name": "Invesco QQQ Trust"
     },
     "MSFT": {
-      "price_usd": 517.89,
-      "change_pct": -1.14,
+      "price_usd": 506.94,
+      "change_pct": -2.13,
       "name": "Microsoft Corporation"
     },
     "GOOGL": {
-      "price_usd": 284.24,
-      "change_pct": -3.9,
+      "price_usd": 280.35,
+      "change_pct": -1.19,
       "name": "Alphabet Inc."
     },
     "AMZN": {
-      "price_usd": 257.69,
-      "change_pct": -3.36,
+      "price_usd": 256.72,
+      "change_pct": -0.4,
       "name": "Amazon.com, Inc."
     },
     "SPY": {
-      "price_usd": 738.81,
-      "change_pct": -2.06,
+      "price_usd": 731.04,
+      "change_pct": -1.2,
       "name": "State Street SPDR S&P 500 ETF Trust"
     },
     "META": {
-      "price_usd": 625.44,
-      "change_pct": -2.53,
+      "price_usd": 619.75,
+      "change_pct": -1.06,
       "name": "Meta Platforms, Inc."
     }
   },
@@ -176,54 +176,54 @@
       "change_pct": 0.0
     },
     "BTC": {
-      "price_usd": 64896.2,
-      "price_thb": 2199981.12,
-      "change_pct": -0.59
+      "price_usd": 63521.13,
+      "price_thb": 2152731.09,
+      "change_pct": -1.93
     },
     "ETH": {
-      "price_usd": 1815.51,
-      "price_thb": 61545.74,
-      "change_pct": -1.06
+      "price_usd": 1783.64,
+      "price_thb": 60447.4,
+      "change_pct": -1.53
     },
     "BNB": {
-      "price_usd": 590.41,
-      "price_thb": 20014.86,
-      "change_pct": -0.69
+      "price_usd": 585.75,
+      "price_thb": 19851.09,
+      "change_pct": -0.67
     },
     "SOL": {
-      "price_usd": 71.29,
-      "price_thb": 2416.67,
-      "change_pct": -1.43
+      "price_usd": 72.3,
+      "price_thb": 2450.37,
+      "change_pct": 1.9
     },
     "XRP": {
-      "price_usd": 0.95,
-      "price_thb": 32.37,
-      "change_pct": -1.16
+      "price_usd": 0.96,
+      "price_thb": 32.41,
+      "change_pct": 0.34
     },
     "ADA": {
       "price_usd": 0.15,
-      "price_thb": 5.19,
-      "change_pct": -1.42
+      "price_thb": 5.13,
+      "change_pct": -1.0
     },
     "DOGE": {
       "price_usd": 0.06,
-      "price_thb": 2.01,
-      "change_pct": 0.13
+      "price_thb": 1.99,
+      "change_pct": -1.2
     },
     "DOT": {
       "price_usd": 0.73,
-      "price_thb": 24.65,
-      "change_pct": -2.14
+      "price_thb": 24.58,
+      "change_pct": -1.01
     },
     "LINK": {
-      "price_usd": 9.15,
-      "price_thb": 310.28,
-      "change_pct": -1.27
+      "price_usd": 9.03,
+      "price_thb": 306.05,
+      "change_pct": -1.89
     },
     "AVAX": {
-      "price_usd": 7.14,
-      "price_thb": 242.14,
-      "change_pct": -2.22
+      "price_usd": 7.02,
+      "price_thb": 238.0,
+      "change_pct": -0.49
     }
   }
 }
