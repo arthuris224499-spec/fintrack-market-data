@@ -1,14 +1,14 @@
 {
-  "timestamp": 1795808859185,
-  "updated_at": "2026-11-28T02:47:33.970955+07:00",
-  "usd_thb": 34.04,
+  "timestamp": 1795891237878,
+  "updated_at": "2026-11-29T01:40:32.823749+07:00",
+  "usd_thb": 33.95,
   "gold": {
-    "bar_buy": 58750.0,
-    "bar_sell": 58950.0,
-    "ornament_buy": 57577.68,
-    "ornament_sell": 59750.0,
-    "update_date": "27/11/2569",
-    "update_time": "เวลา 16:58 น. (ครั้งที่ 39)"
+    "bar_buy": 58550.0,
+    "bar_sell": 58750.0,
+    "ornament_buy": 57380.6,
+    "ornament_sell": 59550.0,
+    "update_date": "28/11/2569",
+    "update_time": "เวลา 09:10 น. (ครั้งที่ 1)"
   },
   "thai_stocks": {
     "PTT": {
@@ -176,54 +176,54 @@
       "change_pct": 0.0
     },
     "BTC": {
-      "price_usd": 59979.85,
-      "price_thb": 2041714.11,
-      "change_pct": -1.17
+      "price_usd": 59605.66,
+      "price_thb": 2023612.12,
+      "change_pct": -0.7
     },
     "ETH": {
-      "price_usd": 1673.58,
-      "price_thb": 56968.83,
-      "change_pct": -1.94
+      "price_usd": 1650.72,
+      "price_thb": 56042.04,
+      "change_pct": -1.39
     },
     "BNB": {
-      "price_usd": 553.4,
-      "price_thb": 18837.63,
-      "change_pct": -0.27
+      "price_usd": 554.1,
+      "price_thb": 18811.84,
+      "change_pct": 0.07
     },
     "SOL": {
-      "price_usd": 72.23,
-      "price_thb": 2458.69,
-      "change_pct": 1.11
+      "price_usd": 70.57,
+      "price_thb": 2395.89,
+      "change_pct": -2.02
     },
     "XRP": {
-      "price_usd": 0.95,
-      "price_thb": 32.41,
-      "change_pct": -0.28
+      "price_usd": 0.94,
+      "price_thb": 31.93,
+      "change_pct": -0.9
     },
     "ADA": {
       "price_usd": 0.15,
-      "price_thb": 5.09,
-      "change_pct": -0.64
+      "price_thb": 4.93,
+      "change_pct": -2.74
     },
     "DOGE": {
       "price_usd": 0.06,
-      "price_thb": 1.97,
-      "change_pct": 1.53
+      "price_thb": 1.92,
+      "change_pct": -2.35
     },
     "DOT": {
-      "price_usd": 0.66,
-      "price_thb": 22.3,
-      "change_pct": -3.0
+      "price_usd": 0.65,
+      "price_thb": 21.91,
+      "change_pct": -3.86
     },
     "LINK": {
-      "price_usd": 9.38,
-      "price_thb": 319.43,
-      "change_pct": 0.13
+      "price_usd": 9.12,
+      "price_thb": 309.78,
+      "change_pct": -3.02
     },
     "AVAX": {
-      "price_usd": 6.63,
-      "price_thb": 225.58,
-      "change_pct": -0.08
+      "price_usd": 6.47,
+      "price_thb": 219.74,
+      "change_pct": -2.89
     }
   }
 }
